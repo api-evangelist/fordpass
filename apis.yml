@@ -107,13 +107,13 @@ common:
     url: https://www.ford.com/support/
   - type: Support
     url: https://www.fordpro.com/en-us/support/
-  - type: Integration
+  - type: Integrations
     url: https://www.high-mobility.com/car-api/ford-data-api
-  - type: Integration
+  - type: Integrations
     url: https://smartcar.com/brand/ford
-  - type: Integration
+  - type: Integrations
     url: https://help.fleetio.com/telematicsgps/ford-pro-telematics-integration
-  - type: Integration
+  - type: Integrations
     url: https://www.geotab.com/ford/
 maintainers:
   - FN: Kin Lane
