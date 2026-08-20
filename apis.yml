@@ -57,6 +57,26 @@ tags:
   - Electric Vehicles
   - EV Charging
   - Phone As A Key
+  - Sync
+tags_raw:
+  - Automotive
+  - Connected Vehicle
+  - Connected Car
+  - Telematics
+  - Fleet
+  - Fleet Management
+  - Vehicle Data
+  - Vehicle Health
+  - Remote Commands
+  - OEM
+  - Mobility
+  - FordPass
+  - Ford Pro
+  - FordConnect
+  - BlueCruise
+  - Electric Vehicles
+  - EV Charging
+  - Phone As A Key
   - SYNC
 url: https://raw.githubusercontent.com/api-evangelist/fordpass/refs/heads/main/apis.yml
 created: '2026-05-25'
