@@ -24,6 +24,17 @@ description: >-
   outside the partner portal, so this profile documents the Ford developer
   surface as an index without a generated machine-readable contract.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
