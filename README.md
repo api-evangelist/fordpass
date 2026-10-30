@@ -1,4 +1,4 @@
-# fordpass
+# FordPass / Ford Pro
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FordPass / Ford Pro — Ford Motor Company connected-vehicle app, Ford Pro fleet telematics, and the FordConnect / Ford Pro partner API surface on developer.ford.com.
+FordPass is Ford Motor Company's consumer connected-vehicle mobile app and service platform for Ford and Lincoln owners, exposing remote start/stop, remote lock/unlock, vehicle status (fuel/charge, tire pressure, oil life, odometer, location), Vehicle Health alerts, BlueCruise hands-free driving, Wi-Fi hotspot, Phone As A Key, scheduled service, and roadside assistance via the embedded FordPass Connect 4G LTE modem. Ford Pro is Ford's commercial fleet brand spanning Ford Pro Telematics, Ford Pro Intelligence, Ford Pro E-Telematics for EVs, Ford Pro Charging, Ford Pro FinSimple, and dealer/upfit services. The Ford Developer Marketplace (developer.ford.com) hosts Ford's partner-facing API program — FordConnect Query API for consumer-vehicle data and remote command access (with vehicle-owner consent via FordPass account OAuth), plus a Ford Pro REST API surface for fleets including Vehicle Status, Vehicle Historical Status, Vehicle Metadata, Vehicle Efficiency (fuel/energy/idle), Driver Behavior, Trip Reports, and Vehicle Health. Ford Pro Telematics is integrated with Geotab, Fleetio, Samsara, Motive, Verizon Connect, and other fleet platforms, and Smartcar offers a consumer OAuth bridge to Ford vehicles using FordPass Connect credentials. Access to Ford APIs is gated behind a partner application and credentials issued through the Ford Developer Portal; Ford has periodically restricted individual-developer access. No public OpenAPI specification is published outside the partner portal, so this profile documents the Ford developer surface as an index without a generated machine-readable contract.
+
+**Areas:** Automotive · Connected Vehicles · Telematics · Fleet · Fleet Management · Vehicle Data · Vehicle Health · Remote Commands · OEM · Mobility · FordPass · Ford Pro
+
+## FordPass / Ford Pro on APIs.io
+
+Everything profiled for FordPass / Ford Pro is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fordpass/](https://apis.io/providers/fordpass/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fordpass Domain Security](https://apis.io/security/fordpass/fordpass-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ford.com)
+- [Pricing](https://www.fordpro.com/en-us/telematics/)
+- [Support](https://www.ford.com/support/)
+- [Changelog](https://www.fordpro.com/en-us/intelligence/release-notes/january-2025/)
+- [Blog](https://www.ford.com/blog/)
+- [Terms of service](https://www.ford.com/help/terms-conditions/)
+- [Privacy policy](https://www.ford.com/help/privacy/)
+- [GitHub](https://github.com/ford)
+
+## API Evangelist rating
+
+**Kin Score 11.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fordpass/](https://apis.io/providers/fordpass/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FordPass / Ford Pro: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fordpass/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
